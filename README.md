@@ -1,6 +1,6 @@
 # CryptoCurrencies
 Unsupervised Machine Learning
-  - packages used: Pandas, path, plotly, and sklearn
+  - packages used: Pandas, path, plotly, and scikit learn
 
 ## OverView of CryptoCurrencies Analysis
 ### Background 
