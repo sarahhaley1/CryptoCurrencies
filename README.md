@@ -5,6 +5,7 @@ Unsupervised Machine Learning
 ## OverView of CryptoCurrencies Analysis
 ### Background 
 A prominent investment bank client for the Accountability Accounting Advisory Services Team is interested in oddering a new cryptocurrency investment portfolio for its customers. This analysis is to create a report for the investment bank regarding the different cyrptocurrency methods available to them and what would be the most beneficial form of currency to add. 
+
 Steps:
 1. Preprocess database
 2. Reduce Dimension with Principal Component Analysis
